@@ -31,7 +31,7 @@
             <n-button
               strong
               secondary
-              @click="jumpTo('https://github.com/imsyy/Snavigation')"
+              @click="jumpTo('https://github.com/Faithdx/Snavigation')"
             >
               Github
             </n-button>

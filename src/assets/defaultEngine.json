@@ -17,6 +17,26 @@
     "translation": "https://translate.google.com/?text=",
     "icon": "google"
   },
+  "bilibili": {
+    "name": "BiliBili",
+    "url": "https://search.bilibili.com/all?keyword=",
+    "icon": "bilibili"
+  },
+  "github": {
+    "name": "Github",
+    "url": "https://github.com/search?q=",
+    "icon": "github"
+  },
+  "zhihu": {
+    "name": "知乎",
+    "url": "https://www.zhihu.com/search?q=",
+    "icon": "zhihu"
+  },
+  "juejin": {
+    "name": "掘金",
+    "url": "https://www.juejin.cn/search?query=",
+    "icon": "juejin"
+  },
   "sogou": {
     "name": "搜狗",
     "url": "https://www.sogou.com/sogou?query=",
@@ -44,21 +64,6 @@
     "name": "微博",
     "url": "https://s.weibo.com/weibo?q=",
     "icon": "weibo"
-  },
-  "bilibili": {
-    "name": "BiliBili",
-    "url": "https://search.bilibili.com/all?keyword=",
-    "icon": "bilibili"
-  },
-  "github": {
-    "name": "Github",
-    "url": "https://github.com/search?q=",
-    "icon": "github"
-  },
-  "zhihu": {
-    "name": "知乎",
-    "url": "https://www.zhihu.com/search?q=",
-    "icon": "zhihu"
   },
   "jingdong": {
     "name": "京东",

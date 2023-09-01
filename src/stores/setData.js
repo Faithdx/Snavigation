@@ -14,8 +14,8 @@ const useSetDataStore = defineStore("setData", {
       // 壁纸模糊
       backgroundBlur: 0,
       // 搜索引擎
-      searchEngine: "bing",
-      lastSearchEngine: "bing",
+      searchEngine: "baidu",
+      lastSearchEngine: "baidu",
       customEngineUrl: "",
       // 搜索框收起
       smallInput: false,
@@ -28,9 +28,9 @@ const useSetDataStore = defineStore("setData", {
       // 时间样式
       timeStyle: "one",
       // 显示农历
-      showLunar: false,
+      showLunar: true,
       // 是否显秒
-      showSeconds: false,
+      showSeconds: true,
       // 是否显零
       showZeroTime: true,
       // 12 小时制
